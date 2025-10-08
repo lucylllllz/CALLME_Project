@@ -1,0 +1,18 @@
+# --- App Framework ---
+streamlit>=1.32.0     # web app framework (>=1.30 needed for st.audio_input)
+
+# --- OpenAI API ---
+openai>=1.0.0         # for Whisper + GPT-4o calls
+
+# --- Audio processing ---
+# pydub                 # for manipulating audio (if needed)
+# soundfile             # reading/writing audio files
+numpy                 # required for audio + ML tasks
+
+# --- Image processing (optional) ---
+Pillow                # image loading and processing
+
+# --- Utilities ---
+python-dotenv         # for loading API keys from .env
+requests              # general HTTP requests if needed
+
