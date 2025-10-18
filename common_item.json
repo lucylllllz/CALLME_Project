@@ -1,0 +1,88 @@
+{
+  "people_animals": [
+    "person", "baby", "child", "man", "woman", "crowd",
+    "cat", "dog", "horse", "sheep", "cow", "elephant", "bear",
+    "zebra", "giraffe", "lion", "tiger", "deer", "bird", "chicken",
+    "duck", "owl", "rabbit", "mouse", "fish"
+  ],
+
+  "vehicles_transport": [
+    "bicycle", "tricycle", "car", "motorcycle", "scooter", "bus",
+    "train", "truck", "van", "ambulance", "taxi", "airplane",
+    "helicopter", "boat", "ship", "kayak", "surfboard", "skateboard",
+    "roller skates", "cart", "wheelchair", "stroller", "luggage trolley"
+  ],
+
+  "outdoor_street": [
+    "traffic light", "street sign", "stop sign", "fire hydrant", "bench",
+    "mailbox", "trash can", "lamp post", "parking meter", "fence", "pole",
+    "tree", "flower", "grass", "bush", "rock", "building", "bridge",
+    "road", "sidewalk", "crosswalk", "gate"
+  ],
+
+  "indoor_furniture": [
+    "chair", "stool", "couch", "sofa", "armchair", "bed", "pillow",
+    "mattress", "nightstand", "desk", "table", "dining table", "shelf",
+    "cabinet", "wardrobe", "curtain", "window", "door", "lamp",
+    "fan", "carpet", "rug"
+  ],
+
+  "kitchen_dining": [
+    "plate", "bowl", "cup", "mug", "glass", "fork", "knife", "spoon",
+    "chopsticks", "bottle", "wine glass", "kettle", "pot", "pan",
+    "oven", "microwave", "toaster", "refrigerator", "sink",
+    "cutting board", "food tray"
+  ],
+
+  "food_drinks": [
+    "banana", "apple", "orange", "mango", "strawberry", "watermelon",
+    "pineapple", "lemon", "carrot", "broccoli", "corn", "cucumber",
+    "sandwich", "burger", "pizza", "hot dog", "donut", "cake", "egg",
+    "bread", "ice cream", "soup", "noodles", "rice", "coffee", "tea",
+    "juice", "soda", "wine"
+  ],
+
+  "clothing_accessories": [
+    "hat", "cap", "helmet", "glasses", "sunglasses", "shirt", "t-shirt",
+    "jacket", "coat", "dress", "pants", "shorts", "skirt", "tie", "scarf",
+    "belt", "shoes", "boots", "socks", "glove", "handbag", "backpack",
+    "umbrella"
+  ],
+
+  "electronics_devices": [
+    "tv", "monitor", "laptop", "desktop", "keyboard", "mouse",
+    "smartphone", "tablet", "camera", "camcorder", "remote",
+    "headphones", "speaker", "printer", "charger", "power bank",
+    "watch", "drone", "calculator"
+  ],
+
+  "tools_equipment": [
+    "hammer", "wrench", "screwdriver", "pliers", "saw", "drill",
+    "tape measure", "brush", "paint roller", "shovel", "rake", "broom",
+    "mop", "bucket", "hose", "ladder", "toolbox"
+  ],
+
+  "toiletries_personal": [
+    "toothbrush", "toothpaste", "towel", "soap", "shampoo", "lotion",
+    "comb", "razor", "mirror", "hair dryer", "toilet", "tissue box",
+    "sanitizer", "perfume", "makeup brush"
+  ],
+
+  "stationery_office": [
+    "book", "notebook", "paper", "pen", "pencil", "eraser", "ruler",
+    "scissors", "stapler", "tape", "envelope", "calculator", "folder",
+    "clipboard", "whiteboard", "chalk", "marker"
+  ],
+
+  "toys_sports": [
+    "ball", "basketball", "soccer ball", "baseball bat", "tennis racket",
+    "kite", "frisbee", "skateboard", "surfboard", "bicycle helmet",
+    "teddy bear", "doll", "toy car", "puzzle", "playing cards"
+  ],
+
+  "household_misc": [
+    "clock", "vase", "candle", "flowerpot", "picture frame", "remote control",
+    "keys", "wallet", "money", "coin", "credit card", "pillow", "blanket",
+    "basket", "bin", "bottle cap", "rope", "string", "magnet"
+  ]
+}

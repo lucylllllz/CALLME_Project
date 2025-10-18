@@ -1,0 +1,85 @@
+timestamp,task,model,student_story,teacher_story,model_output,perplexity,ave_conf,rouge1,rouge2,rougeL,rougeLsum,bleu,bertscore_P,bertscore_R,bertscore_F1,sbert_cosine
+2025-10-17T23:45:38,no_imgs,gpt-4o,"Uh.  A few weeks ago, uh, this boy want to swim in the - uh, swim in the ocean. But he found that he don't have enough mon - money for that. Then, he found a notice that wanted staff.  He want to be a staff to earn more money. And he become the staff and gets through a hard working. He get enough money  to swim in the ocean.  He was very happy.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: A few weeks ago, a boy dreamed of swimming in the ocean.  
+Teacher: However, he realized he didn't have enough money for it.  
+Teacher: Then, he noticed a sign for a job opening and decided to apply to earn some cash.  
+Teacher: After landing the job, he worked hard and put in many hours.  
+Teacher: Eventually, he saved up enough money.  
+Teacher: With his savings, he was finally able to swim in the ocean, feeling overjoyed.",1.385135015053365,0.8267648756612802,0.1481481481481481,0.0,0.1481481481481481,0.037037037037037,0.0,0.7954719066619873,0.7639389038085938,0.779386579990387,0.1509888172149658
+2025-10-17T23:45:53,no_imgs,gpt-4o,"﻿A few weeks ago, a man wanted swimming in the sea and then he found his wallet doesn't have any money. And so he held on the street.
+He wants to find some ways to get money.
+Suddenly---
+---he saw a picture on the wall.
+There is writing it 'Staff Wanted'.
+About electrical good sales. And then he offer the job.
+He become a staff in supermarket.
+He sell - his jobs is to selling, um, um, what it is?  Computer.
+Yeah and he is good at selling.
+He has a lot of - he has a lot of customers. Um, most lately---
+He get his first pages. Finally, he strength is come to.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: Once upon a time, there was a young man who dreamed of swimming in the beautiful ocean.
+
+Teacher: However, he realized he didn't have enough money to make his dream a reality.
+
+Teacher: While walking in search of opportunities, he stumbled upon a ""Staff Wanted"" sign for a job in sales.
+
+Teacher: He applied for the position at a computer store and soon became a diligent employee, excelling in customer service.
+
+Teacher: After several weeks of hard work, he finally received his first paycheck.
+
+Teacher: With his earnings, he was able to swim in the ocean, feeling incredibly content and fulfilled.",1.8866365415927475,0.7250165797509117,0.1203007518796992,0.0,0.1203007518796992,0.0300751879699248,0.0,0.7943832874298096,0.7502933144569397,0.7717090845108032,0.1331699192523956
+2025-10-17T23:46:07,no_imgs,gpt-4o," And - but he - he wants to travel maybe and he doesn't - he realized he doesn't have the money so accidentally he just saw a advertisement or notice about the staff wanted and he decided to - to apply for that job to get money.  And then he went - and then he went to do the part-time job, and he works as a sale assistant in a computer shop I think, electronic devices shop.  And then, uh - and then maybe after 1 month, he finally got his money. Then he - he - he - he - he - he gets the enough money to go travel with his friends, with his family.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: The young man dreamed of swimming in the ocean and enjoying the waves.
+Teacher: However, he quickly realized his wallet was almost empty, leaving his plans adrift.
+Teacher: While walking down the street, he noticed a “Staff Wanted” sign and saw an opportunity.
+Teacher: He applied for the job, becoming a sales assistant at a bustling electronics store.
+Teacher: After a month of diligent work, his efforts paid off, and he finally had enough money.
+Teacher: With his goal achieved, he excitedly prepared for his seaside adventure, thrilled to make his dream a reality.",2.0496471288450286,0.6823560840485258,0.128,0.0,0.128,0.032,0.0,0.8036205768585205,0.7692134380340576,0.7860406041145325,0.1765603721141815
+2025-10-17T23:46:20,no_imgs,gpt-4o,"A few weeks ago, a man went to tour, but they have no money, ... eh, and then he looked at the, uh, ... this so what - staff wanted. Um, so he bought - he bought - for the money, he went to the stop and sell the stamp - uh, sell the furnitures.  Then, he got the money, uh, so he had enough money to go to - to go to the tour and swim happily.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: A young man dreamed of traveling to the sea.
+Teacher: However, he realized his wallet was empty.
+Teacher: While thinking of solutions, he noticed a ""Staff Wanted"" sign for a sales position.
+Teacher: He successfully applied and began working at an electronics store, selling computers with enthusiasm.
+Teacher: After a few weeks of hard work, he received his first paycheck.
+Teacher: With the money he earned, he finally fulfilled his dream and went on a joyful trip to the ocean.",1.6782523008708836,0.7435496353199598,0.1261261261261261,0.0,0.1261261261261261,0.036036036036036,0.0,0.8082419633865356,0.777471125125885,0.792557954788208,0.1336337924003601
+2025-10-17T23:46:35,no_imgs,gpt-4o,"A man, a man, okay.  Uh, a few weeks ago, a man go to playing in the sea, um, it's not far away from his home  um, but unfortunately he lost his, um, money in the sea and then now he is very poor, uh, uh, and the - then he see a, um, staff wanted, uh, advertisement, uh, and then he became the staff, um, in the - how to say - a computer - in a computer - how to say - XXX  in English. Yes. XXX  and then he work in a com - computer shop. Um, after 1 month work he get the salary  and the - then he can go to the sea for playing again.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: A few weeks ago, a man decided he wanted to enjoy a day at the sea.
+Teacher: Unfortunately, he realized he didn’t have any money for the trip.
+Teacher: While pondering his situation, he noticed a 'Staff Wanted' sign for a job in electronics sales.
+Teacher: He applied and was hired, quickly becoming an adept sales assistant at a computer shop.
+Teacher: After a month of dedicated work, he finally received his paycheck.
+Teacher: With his earnings, he was thrilled to return to the sea and enjoy his well-deserved day of relaxation.",1.6398960073453943,0.7308945089962503,0.128,0.0,0.128,0.032,0.0,0.8011972904205322,0.775456428527832,0.7881167531013489,0.150914654135704
+2025-10-17T23:48:53,no_imgs,gpt-4o,"Uh.  A few weeks ago, uh, this boy want to swim in the - uh, swim in the ocean. But he found that he don't have enough mon - money for that. Then, he found a notice that wanted staff.  He want to be a staff to earn more money. And he become the staff and gets through a hard working. He get enough money  to swim in the ocean.  He was very happy.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: Once upon a time, there was a boy who dreamed of swimming in the ocean.
+
+Teacher: He realized, however, that he didn't have enough money to make this dream a reality.
+
+Teacher: One day, he saw a ""Help Wanted"" notice and decided to apply for the job.
+
+Teacher: He was hired and worked diligently, saving up his earnings.
+
+Teacher: Eventually, he had saved enough money.
+
+Teacher: He finally fulfilled his dream and swam joyfully in the ocean.",1.5651291637999942,0.7730425923750037,0.128440366972477,0.0,0.128440366972477,0.036697247706422,0.0,0.7976951003074646,0.7564225792884827,0.7765107750892639,0.1849023848772049
+2025-10-17T23:49:07,no_imgs,gpt-4o,"﻿A few weeks ago, a man wanted swimming in the sea and then he found his wallet doesn't have any money. And so he held on the street.
+He wants to find some ways to get money.
+Suddenly---
+---he saw a picture on the wall.
+There is writing it 'Staff Wanted'.
+About electrical good sales. And then he offer the job.
+He become a staff in supermarket.
+He sell - his jobs is to selling, um, um, what it is?  Computer.
+Yeah and he is good at selling.
+He has a lot of - he has a lot of customers. Um, most lately---
+He get his first pages. Finally, he strength is come to.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: A young man dreamed of swimming in the ocean.  
+Teacher: Unfortunately, he realized he had no money for the adventure.  
+Teacher: Determined to earn, he noticed a ""Staff Wanted"" sign for a job in a store.  
+Teacher: He applied and was hired to sell electronics, quickly becoming skilled at attracting customers.  
+Teacher: With his first paycheck in hand, he felt his goal within reach.  
+Teacher: At last, his efforts paid off, allowing him to swim joyfully in the ocean.",1.764458740830705,0.7155055563036661,0.1454545454545454,0.0,0.1454545454545454,0.0363636363636363,0.0,0.7982333898544312,0.7685267925262451,0.7830984592437744,0.1576384752988815
+2025-10-17T23:49:21,no_imgs,gpt-4o," And - but he - he wants to travel maybe and he doesn't - he realized he doesn't have the money so accidentally he just saw a advertisement or notice about the staff wanted and he decided to - to apply for that job to get money.  And then he went - and then he went to do the part-time job, and he works as a sale assistant in a computer shop I think, electronic devices shop.  And then, uh - and then maybe after 1 month, he finally got his money. Then he - he - he - he - he - he gets the enough money to go travel with his friends, with his family.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: A few weeks ago, a young man dreamed of swimming in the ocean.
+Teacher: He quickly discovered that his wallet was completely empty, lacking the funds for the trip.
+Teacher: While walking down the street seeking solutions, he noticed a ""Staff Wanted"" poster for a sales job.
+Teacher: Taking the opportunity, he joined a store as a sales assistant, selling computers and electronics with enthusiasm.
+Teacher: After a month of hard work, he finally received his first paycheck.
+Teacher: With enough savings, he joyfully planned his ocean adventure, grateful for the opportunity to make his dream come true.",1.9838930161737092,0.6964542137403423,0.1395348837209302,0.0,0.1395348837209302,0.0310077519379844,0.0,0.8043387532234192,0.774133563041687,0.7889471650123596,0.1588524729013443
+2025-10-17T23:49:35,no_imgs,gpt-4o,"A few weeks ago, a man went to tour, but they have no money, ... eh, and then he looked at the, uh, ... this so what - staff wanted. Um, so he bought - he bought - for the money, he went to the stop and sell the stamp - uh, sell the furnitures.  Then, he got the money, uh, so he had enough money to go to - to go to the tour and swim happily.",Teacher: <caption for frame 1> Teacher: <caption for frame 2> Teacher: <caption for frame 3> Teacher: <caption for frame 4> Teacher: <caption for frame 5> Teacher: <caption for frame 6>,"Teacher: A few weeks ago, a man was dreaming of a seaside adventure.
+Teacher: However, he realized his wallet was empty and he had no money for the trip.
+Teacher: Luckily, he stumbled upon a ""Staff Wanted"" notice while walking down the street.
+Teacher: He applied for the job and was hired as a sales assistant in an electronics store.
+Teacher: After working hard for a month, he finally received his first paycheck.
+Teacher: With enough money saved, he joyfully planned his seaside getaway.",1.4930342574380113,0.7729970541129647,0.15789473684210525,0.0,0.15789473684210525,0.03508771929824561,0.0,0.8013412952423096,0.7752832770347595,0.7880969047546387,0.12890467047691345
