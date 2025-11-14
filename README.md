@@ -1,7 +1,7 @@
 
   # CALLME
 
-  This is a code bundle for Chatbot. The original project is available at https://www.figma.com/design/ra6Ke8P2JN1T3HYkzWfIAf/Chatbot.
+  This is a code bundle for CALLME: Context-Aware Language Learning with Multimodal Enhancement
 
   ## Running the code
 
